@@ -5,7 +5,11 @@ This whitepaper is being co-developed as a volunteer effort by members of the pu
 ## Table of Content
 
 1. [Introduction](1_Introduction.md)
-
+2. [Key Themes](2_Key_Themes.md)
+3. [Benefits](3_Benefits.md)
+4. [Activities](4_Activities.md)
+5. [Stakeholders](5_Stakeholders.md)
+6. [Action Items](6_Action_Items.md)
 
 ## How to Contribute
 
