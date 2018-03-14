@@ -1,4 +1,4 @@
-[Table of Content](README.md#table-of-content) | [Next Page: Templates »](3_Templates.md)
+[Table of Content](README.md#table-of-content) | [Next Page: Benefits »](3_Benefits.md)
 
 ## Key Themes
 
